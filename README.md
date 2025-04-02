@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dhia Snoussi
 
-🚀 **Senior .NET Engineer & Software Architect** | **Cloud & Microservices Specialist** | **Angular | Azure | DDD**
+🚀 **Senior .NET Engineer & Software Architect** | **Cloud & Microservices** | **Angular | Azure | DDD**
 
 ## ⚡ Tech Stack & Expertise
 
