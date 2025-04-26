@@ -1,9 +1,12 @@
 # Hi there! 👋 I'm Dhia Snoussi
+<div style="position:absolute; top:0; right:0; width:100px; height:100px; overflow:hidden;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Y4aGltMW5pZjRkeWFjczRkdHk1czZrODV4ZXVsem4yb3QzZXZleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="100" height="100" alt="Coding Animation" style="border-radius: 30 30 30 30px;">
+</div>
 
 🚀 **Senior .NET Engineer & Software Architect** | **Cloud & Microservices Expert** | **Angular | Azure | DDD**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Y4aGltMW5pZjRkeWFjczRkdHk1czZrODV4ZXVsem4yb3QzZXZleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="Coding Animation">
+<div>
+  <br>
 </div>
 
 ## ⚡ Technical Skills
@@ -43,7 +46,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/dhiasnoussi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhiasnoussi&show_icons=true&theme=radical" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=dhiasnoussi&theme=radical" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiasnoussi&layout=compact&theme=radical" />
   </a>
 </div>
