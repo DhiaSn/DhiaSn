@@ -45,9 +45,13 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/dhiasnoussi">
-    <img height="130em" src="https://streak-stats.demolab.com/?user=DhiaSn&theme=radical" />
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhiaSn&layout=compact&theme=radical" />
+  <a href="https://github.com/DhiaSn">
+    <img height="150em" src="https://streak-stats.demolab.com/?user=DhiaSn&theme=radical" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhiaSn&layout=compact&theme=radical" />
+  </a>
+
+  <a href="https://github.com/DhiaSn">
+    <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=DhiaSn&theme=react-dark&hide_border=true&area=true" />
   </a>
 </div>
 
