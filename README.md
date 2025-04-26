@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/dhiasnoussi">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=dhiasnoussi&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiasnoussi&layout=compact&theme=radical" />
+    <img height="130em" src="https://streak-stats.demolab.com/?user=dhiasnoussi&theme=radical" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiasnoussi&layout=compact&theme=radical" />
   </a>
 </div>
 
